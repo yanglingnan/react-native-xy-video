@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_next.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_next.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_rewind.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_rewind.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_fullscreen_exit.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_controls_fullscreen_exit.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_repeat_all.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_controls_repeat_all.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_notification_small_icon.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_notification_small_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_fullscreen_enter.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_controls_fullscreen_enter.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_pause.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_pause.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_play.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_play.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_repeat_off.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_controls_repeat_off.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_shuffle.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_controls_shuffle.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_stop.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_stop.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_previous.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_previous.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_controls_repeat_one.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_controls_repeat_one.png"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-ldpi-v4/exo_icon_fastforward.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/ecd5c163e1dad52bc7ae4be256a10df4/res/drawable-ldpi-v4/exo_icon_fastforward.png"
+    }
+]

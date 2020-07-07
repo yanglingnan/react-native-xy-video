@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/d70d46c5c92cc444f9e074c98d9d307d/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Desktop/RnWork/runner/node_modules/react-native-video/android-exoplayer/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/5d076fbfa28787c6faf5b33a9f84844b/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
